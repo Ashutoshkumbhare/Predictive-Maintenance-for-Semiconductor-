@@ -1,0 +1,9 @@
+  
+step 1 : download code in a new environment.
+step 2 : open that perticular folder PyCham.
+step 3 : install the dependency froma file given "requirements.txt"
+            use code: "pip install -r requirements.txt" (in terminal of Pycham)
+step 4 : Open main.py file and run the file.
+step 5 : project will start running at localhost.
+
+NOTE: In some project GUI is not created so we need to hit the route from postman.
